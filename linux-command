@@ -11,3 +11,24 @@ i -> insert
 
 esc + :
 wq! for save
+
+
+
+/home/bob
+[bob@student-node ~]$ cd playbooks/
+[bob@student-node playbooks]$ pwd
+/home/bob/playbooks
+[bob@student-node playbooks]$ ls 
+practice.yaml
+[bob@student-node playbooks]$ cat practice.yaml 
+property1: value1
+[bob@student-node playbooks]$ vi practice.yaml 
+[bob@student-node playbooks]$ cat practice.yaml 
+property1: value1
+property2: value2
+[bob@student-node playbooks]$ pwd
+/home/bob/playbooks
+[bob@student-node playbooks]$ cat practice.yaml 
+name: apple
+[bob@student-node playbooks]$ vi practice.yaml 
+[bob@student-node playbooks]$ cat practice.yaml 
