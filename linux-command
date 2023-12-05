@@ -1,0 +1,13 @@
+Linux basics
+pwd
+
+ls
+
+cat filename
+
+vi filename
+
+i -> insert
+
+esc + :
+wq! for save
